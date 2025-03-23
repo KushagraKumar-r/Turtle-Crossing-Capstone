@@ -1,0 +1,2 @@
+# Turtle-Crossing-Capstone
+ The Turtle Crossing project is an engaging game developed in Python using the Turtle graphics library and Object-Oriented Programming (OOP) principles. Players control a turtle that must navigate across a busy road while avoiding obstacles, enhancing their reflexes and strategic thinking. This project showcases the integration of game mechanics, user interaction, and graphical representation in a fun and educational way.
